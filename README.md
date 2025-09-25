@@ -6,7 +6,7 @@
 ---
 
 ## 👩‍💻 About Me  
-I am a **results-driven IT professional and engineer** with over 2 years of experience in IT support, system deployment, and troubleshooting across education, banking, and corporate environments. Skilled in networking, system administration, and cloud concepts, with growing expertise in **data science and machine learning**.  
+I am a **results-driven IT professional and engineer** with over 2 years of experience in IT support, system deployment, and troubleshooting across education, banking, and corporate environments. Skilled in networking and system administration, with growing expertise in **data science and machine learning**.  
 
 My passion lies in applying **technology, data, and automation** to solve real-world problems, improve efficiency, and support digital transformation.  
 
