@@ -151,5 +151,5 @@ Integrate with decision-support systems for agriculture & energy
 ---
 
 ## 🌍 Languages  
-English (Fluent) | Luganda (Fluent) | Lutooro (Native) | Kiswahili (Intermediate) | Lusoga (Intermediate)  
+English (Fluent) | Lutooro (Native) | Luganda (Intermediate)| Kiswahili (Intermediate) | Lusoga (Intermediate)  
 
